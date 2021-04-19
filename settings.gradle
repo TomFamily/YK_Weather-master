@@ -1,0 +1,6 @@
+rootProject.name='yk_weather_data'
+include ':app'
+
+/*
+
+ */
